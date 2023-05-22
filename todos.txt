@@ -1,0 +1,4 @@
+Play Zelda
+Clean the Code
+Debug the Program
+Reach to day 20
